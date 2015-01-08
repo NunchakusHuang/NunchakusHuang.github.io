@@ -4,7 +4,7 @@
   <title><![CDATA[黄勇的博客]]></title>
   <link href="http://nunchakushuang.github.io/atom.xml" rel="self"/>
   <link href="http://nunchakushuang.github.io/"/>
-  <updated>2015-01-08T22:51:27+08:00</updated>
+  <updated>2015-01-08T23:09:04+08:00</updated>
   <id>http://nunchakushuang.github.io/</id>
   <author>
     <name><![CDATA[黄勇]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[我的第一篇博客]]></title>
+    <link href="http://nunchakushuang.github.io/blog/2015/01/08/wo-de-di-%5B%3F%5D-pian-bo-ke/"/>
+    <updated>2015-01-08T23:06:18+08:00</updated>
+    <id>http://nunchakushuang.github.io/blog/2015/01/08/wo-de-di-[?]-pian-bo-ke</id>
+    <content type="html"><![CDATA[<p>这是我的第一篇博客，希望大家能多多关注哟。我会分享记录一些技术上的文章，希望可以和大家多多交流哦。</p>
+]]></content>
+  </entry>
   
 </feed>
