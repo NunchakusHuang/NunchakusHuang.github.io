@@ -4,7 +4,7 @@
   <title><![CDATA[Category: All | 黄勇的博客]]></title>
   <link href="http://nunchakushuang.github.io/blog/categories/all/atom.xml" rel="self"/>
   <link href="http://nunchakushuang.github.io/"/>
-  <updated>2015-01-09T15:34:48+08:00</updated>
+  <updated>2015-01-09T17:02:04+08:00</updated>
   <id>http://nunchakushuang.github.io/</id>
   <author>
     <name><![CDATA[黄勇]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nunchakus]]></title>
+    <link href="http://nunchakushuang.github.io/blog/2015/01/09/nunchakus/"/>
+    <updated>2015-01-09T16:07:09+08:00</updated>
+    <id>http://nunchakushuang.github.io/blog/2015/01/09/nunchakus</id>
+    <content type="html"><![CDATA[<p><video width='640' height='320' preload='none' controls poster=''><source src='http://k.youku.com/player/getFlvPath/sid/742079396815712fc074f_00/st/flv/fileid/0300020200502334339824060E56E1D46B41F6-90E5-E1A6-9FC7-B5C7041D4ADF?K=1be8b0170ff31c78282a279e&amp;hd=1&amp;myp=0&amp;ts=254&amp;ypp=0&amp;ctype=12&amp;ev=1&amp;token=5156&amp;oip=1132670062&amp;ep=dSaWGk6EVccG7SLajz8bMX%2Fic3NZXP4J9h%2BFg9JgALshSOq8mjrSxJS4TPtCEPlsdyRzEZ%2F1raLjazYSYflD3G0Qqk%2FZP%2FrpiIPk5d9Wt5cAYhhCdryjwlSbQjX3">http://k.youku.com/player/getFlvPath/sid/742079396815712fc074f_00/st/flv/fileid/0300020200502334339824060E56E1D46B41F6-90E5-E1A6-9FC7-B5C7041D4ADF?K=1be8b0170ff31c78282a279e&amp;hd=1&amp;myp=0&amp;ts=254&amp;ypp=0&amp;ctype=12&amp;ev=1&amp;token=5156&amp;oip=1132670062&amp;ep=dSaWGk6EVccG7SLajz8bMX%2Fic3NZXP4J9h%2BFg9JgALshSOq8mjrSxJS4TPtCEPlsdyRzEZ%2F1raLjazYSYflD3G0Qqk%2FZP%2FrpiIPk5d9Wt5cAYhhCdryjwlSbQjX3</a>&#8217; ></video></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[我的第一篇博客]]></title>
