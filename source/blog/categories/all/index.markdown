@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Category:iOS开发"
+title: Category:All
 date: 2015-01-09 00:13
 comments: true
 sharing: true
