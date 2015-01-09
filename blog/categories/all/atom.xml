@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[黄勇的博客]]></title>
-  <link href="http://nunchakushuang.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: All | 黄勇的博客]]></title>
+  <link href="http://nunchakushuang.github.io/blog/categories/all/atom.xml" rel="self"/>
   <link href="http://nunchakushuang.github.io/"/>
   <updated>2015-01-09T15:34:48+08:00</updated>
   <id>http://nunchakushuang.github.io/</id>
